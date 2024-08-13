@@ -16,4 +16,4 @@ Tools:
 - Python
 - Jupyter Notebook
 
-Final result is [here](https://github.com/AndriiTsokur/data-project-001/blob/main/profitable_app_profiles.ipynb)
+The step-by-step milestones and final result are shown [here](https://github.com/AndriiTsokur/data-project-001/blob/main/profitable_app_profiles.ipynb)
