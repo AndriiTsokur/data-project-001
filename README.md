@@ -16,4 +16,4 @@ At our company, we only build apps that are free to download and install, and ou
 - Python
 - Jupyter Notebook
 
-The step-by-step milestones and final result are shown [here](https://github.com/AndriiTsokur/data-project-001/blob/main/profitable_app_profiles.ipynb)
+The step-by-step milestones and final result are shown [here](https://nbviewer.org/github/AndriiTsokur/data-project-001/blob/main/profitable_app_profiles.ipynb)
